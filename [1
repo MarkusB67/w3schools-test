@@ -1,0 +1,56 @@
+[33mcommit 79fa561cac613f6ba3e766064d03845edd7b0318[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MarkusB67 <mb@prolink.de>
+Date:   Wed Aug 28 12:43:13 2024 +0200
+
+    Update readme.md
+    
+    trara
+
+[33mcommit 83d7541232c93cbfbd4626388f73127de6fb8c91[m
+Author: MarkusB67 <mb@prolink.de>
+Date:   Wed Aug 28 12:41:39 2024 +0200
+
+    Update readme.md
+
+[33mcommit feab09ff26f03b3af816041887aefdda802273d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: a7a5571 1ebbfa7
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 12:21:48 2024 +0200
+
+    Merge branch 'hello-world-images'
+    # Please enter a commit message to explain why this merge is necessary,
+    # especially if it merges an updated upstream into a topic branch.
+    #
+    # Lines starting with '#' will be ignored, and an empty message aborts
+    # the commit.
+    Hallo
+
+[33mcommit 1ebbfa78125feae4d43222b7a5a582dea680b30a[m
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 12:17:42 2024 +0200
+
+    added new image
+
+[33mcommit a7a55717dc28100859bcfd4b08fbdf3e261eae79[m
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 12:12:09 2024 +0200
+
+    updated index.html with emergency fix
+
+[33mcommit 84a5bb124982b2c29de409356f76b654360b8595[m
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 11:44:52 2024 +0200
+
+    Added image to Hello World
+
+[33mcommit a83f402aa4c417e3028b496ee88ef538c5963c49[m
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 11:32:58 2024 +0200
+
+    Updated index.html with a new line
+
+[33mcommit a7774033fd555fc0b73f52d71738590580c9cfac[m
+Author: Markus Bärtle <mb@prolink.de>
+Date:   Wed Aug 28 11:31:10 2024 +0200
+
+    First release of Hello World!
